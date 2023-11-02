@@ -8,7 +8,7 @@ This exercise should take approximately 8 hours to complete. The time estimates 
 
 
 ### Prerequisites
-- GitHub.com account with the Enterprise owner role for a GitHub Enterprise Cloud instance.
+- GitHub.com account with the Enterprise owner role for a GitHub Enterprise Cloud instance (optional for GitHub Connect).
 - A valid GitHub Server license file.
 - Deployment and network permissions to one of the supported environ-
 ments (e.g. Azure, AWS, GCP, VMware ESXi).
@@ -71,8 +71,8 @@ providers (Azure Blob, AWS S3, GCP Storage, MinIO).
 ### Finish line :checkered_flag: :rocket: :octocat: :sparkles:
 • You’ve made it! When you arrive at this step it means you succeeded having all the core features of a single GitHub Enterprise Server instance active, this is an awesome skill to have! Take some time to relax and celebrate your newly acquired skills! There’s still plenty more to learn about our GHES product! For example I recommend you to learn about following:
 
-- [Setting up an HA Replica]()
-- [Setting up a geo-replication]()
-- [Enabling GitHub Pages]()
-- [Performing a backup!]()
-- [Updating your instance]()
+- [Setting up an HA Replica](https://docs.github.com/en/enterprise-server@3.10/admin/monitoring-managing-and-updating-your-instance/configuring-high-availability/creating-a-high-availability-replica#creating-a-high-availability-replica)
+- [Setting up a geo-replication](https://docs.github.com/en/enterprise-server@3.10/admin/monitoring-managing-and-updating-your-instance/configuring-high-availability/creating-a-high-availability-replica#creating-geo-replication-replicas)
+- [Enabling GitHub Pages](https://docs.github.com/en/enterprise-server@3.10/admin/configuration/configuring-user-applications-for-your-enterprise/configuring-github-pages-for-your-enterprise)
+- [Performing a backup!](https://docs.github.com/en/enterprise-server@3.10/admin/backing-up-and-restoring-your-instance/configuring-backups-on-your-instance)
+- [Updating your instance](https://docs.github.com/en/enterprise-server@3.10/admin/monitoring-managing-and-updating-your-instance/updating-the-virtual-machine-and-physical-resources/upgrading-github-enterprise-server)
