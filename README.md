@@ -76,3 +76,8 @@ providers (Azure Blob, AWS S3, GCP Storage, MinIO).
 - [Enabling GitHub Pages](https://docs.github.com/en/enterprise-server@3.10/admin/configuration/configuring-user-applications-for-your-enterprise/configuring-github-pages-for-your-enterprise)
 - [Performing a backup!](https://docs.github.com/en/enterprise-server@3.10/admin/backing-up-and-restoring-your-instance/configuring-backups-on-your-instance)
 - [Updating your instance](https://docs.github.com/en/enterprise-server@3.10/admin/monitoring-managing-and-updating-your-instance/updating-the-virtual-machine-and-physical-resources/upgrading-github-enterprise-server)
+
+- GitHub Governer:
+  - [Overview](https://gist.github.com/ppremk/5f0c6423452a0af5afe2a5cbce572004)
+  - [Official Documentation](https://docs.github.com/en/enterprise-server@3.10/admin/administering-your-instance/administering-your-instance-from-the-command-line/command-line-utilities#ghe-governor)
+  
